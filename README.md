@@ -37,7 +37,9 @@ Raspberry Pi-basiertes System zur Verwaltung von Filamentspulen mit NFC-Tagging,
 | **OLED** | SSD1306 128×64, I2C Bus 1 (GPIO2/3), luma.oled |
 | **Drucker** | Creality K2 Plus CFS — Klipper + Moonraker API |
 
-Die 3D-Druckdateien (STL + 3MF) für das Gehäuse sind auf **[Printables.com](https://www.printables.com)** verfügbar.
+Die 3D-Druckdateien (STL + 3MF) für das Gehäuse sind auf Printables.com verfügbar:
+
+**[➡️ FilaStation auf Printables.com](https://www.printables.com/model/1660320-filastation-filament-management-system-for-crealit)**
 
 ---
 
