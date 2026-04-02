@@ -1,0 +1,26 @@
+# Persönliche Konfiguration mit echten NFC-Tag-UIDs und Kalibrierungswerten
+# → Stattdessen waage_config.example.json als Vorlage verwenden!
+waage_config.json
+
+# Datenbank (enthält persönliche Spulen-, Auftrags- und Kundendaten)
+filament.db
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.log
+waage.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtuelle Umgebungen
+venv/
+.env/

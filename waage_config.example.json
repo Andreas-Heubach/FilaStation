@@ -1,0 +1,17 @@
+{
+  "_hinweis": "Diese Datei als waage_config.json speichern und alle Werte anpassen!",
+  "server_url": "http://192.168.1.100:5000",
+  "master_tags": {
+    "_hinweis_tags": "NFC-UIDs deiner Master-Tags eintragen (8 Zeichen Hex). Beim ersten Scan werden sie automatisch registriert.",
+    "tare":      null,
+    "calibrate": null,
+    "shutdown":  null,
+    "reboot":    null
+  },
+  "calibration": {
+    "_hinweis_kalibrierung": "Diese Werte werden automatisch beim Kalibriervorgang gesetzt. Nicht manuell aendern.",
+    "gram_factor": 416.9286,
+    "zero_baseline": -23061.7
+  },
+  "registered": false
+}
